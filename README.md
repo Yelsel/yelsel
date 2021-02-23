@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yelsel&label=Profile%20views&color=0e75b6&style=flat" alt="yelsel" />
 
-\n
+  
 - 🔭 I’m currently working on **Personal website**
 - 🌱 I’m currently learning **Gatsby**
 - 💬 Ask me about **Beer, i love beer :beer:**
